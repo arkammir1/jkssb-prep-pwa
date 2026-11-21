@@ -1,0 +1,16 @@
+{
+  "totalQuestions": 12000,
+  "starterQuestions": 1200,
+  "totalPacks": 6,
+  "chunkSize": 2000,
+  "postsSupported": [
+    "jkp-si",
+    "jkp-constable",
+    "stock-assistant",
+    "faa",
+    "vlw-panchayat",
+    "patwari",
+    "assistant-compiler"
+  ],
+  "hasDualMethodMath": true
+}

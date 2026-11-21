@@ -1,0 +1,552 @@
+{
+  "posts": [
+    {
+      "id": "jkp-si",
+      "name": "JKP Sub Inspector",
+      "department": "J&K Police Department (Executive / Armed)",
+      "badge": "High Competition",
+      "icon": "shield",
+      "color": "#1e3a8a",
+      "totalMarks": 120,
+      "totalQuestions": 120,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "92 - 102",
+      "description": "Executive & Armed Wings of Jammu & Kashmir Police. Focuses on J&K Reorganization Act, General Knowledge, Quantitative Aptitude with speed methods, Logical Reasoning, and Science.",
+      "subjects": [
+        {
+          "id": "jkp-si-gk-jk",
+          "name": "GK with Special Reference to J&K UT",
+          "weightage": 20,
+          "topics": [
+            "J&K Reorganization Act 2019 (Sections, Schedules, Transitions)",
+            "History of J&K (Ancient, Medieval, Dogra Period)",
+            "Geography, Rivers, Lakes & Glaciers of J&K",
+            "Hydroelectric Projects & Tourist Destinations",
+            "Flora, Fauna, National Parks & Sanctuaries",
+            "Weather, Climate & Crops of J&K"
+          ]
+        },
+        {
+          "id": "jkp-si-maths",
+          "name": "Quantitative Aptitude & Mathematics",
+          "weightage": 20,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Percentages & Profit-Loss (Ratio & Multiplier Methods)",
+            "Time, Speed & Distance / Trains / Boats",
+            "Time & Work / Pipes & Cisterns (Unit Work Method)",
+            "Simple & Compound Interest (Successive Rate Tricks)",
+            "Ratio & Proportion, Mixtures & Alligation",
+            "Average, Ages & Number Systems",
+            "Mensuration 2D & 3D (Formula & Elimination Hacks)",
+            "Data Interpretation (Bar, Pie, Line Graphs)"
+          ]
+        },
+        {
+          "id": "jkp-si-reasoning",
+          "name": "Mental Ability & Logical Reasoning",
+          "weightage": 20,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Number, Alphabet & Mixed Series",
+            "Coding-Decoding & Substitution",
+            "Blood Relations (Family Tree & Direct Pointer Trick)",
+            "Direction Sense & Shadows",
+            "Syllogisms (Venn Diagram & 100-50 Rules)",
+            "Seating Arrangement & Puzzles",
+            "Statement & Assumptions / Arguments"
+          ]
+        },
+        {
+          "id": "jkp-si-polity",
+          "name": "Indian Constitution & Polity",
+          "weightage": 15,
+          "topics": [
+            "Preamble & Fundamental Rights (Arts 12-35)",
+            "Directive Principles (DPSP) & Fundamental Duties",
+            "Union Executive, Parliament & Supreme Court",
+            "Emergency Provisions & Constitutional Amendments",
+            "Panchayati Raj & Local Self Government"
+          ]
+        },
+        {
+          "id": "jkp-si-science",
+          "name": "General Science",
+          "weightage": 15,
+          "topics": [
+            "Physics: Motion, Gravitation, Optics, Electricity",
+            "Chemistry: Acids, Bases, Metals, Carbon Compounds",
+            "Biology: Human Physiology, Vitamins, Diseases, Immunity",
+            "Ecology, Environmental Pollution & Biodiversity"
+          ]
+        },
+        {
+          "id": "jkp-si-english",
+          "name": "General English & Comprehension",
+          "weightage": 15,
+          "topics": [
+            "Tenses & Subject-Verb Agreement",
+            "Active-Passive Voice & Direct-Indirect Speech",
+            "Prepositions, Conjunctions & Articles",
+            "Idioms, Phrases & One Word Substitutions",
+            "Synonyms, Antonyms & Spotting Errors"
+          ]
+        },
+        {
+          "id": "jkp-si-computer",
+          "name": "Computer Fundamentals & Cyber Security",
+          "weightage": 15,
+          "topics": [
+            "Hardware, Memory (RAM, ROM, Cache) & CPU",
+            "Operating Systems & MS Office (Word, Excel, PowerPoint)",
+            "Internet, Protocols (HTTP, FTP, TCP/IP), DNS",
+            "Cyber Security, Viruses, Trojans, Firewalls",
+            "Recent Tech & AI Innovations in India"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jkp-constable",
+      "name": "JKP Constable",
+      "department": "J&K Police (Executive / Armed / SDRF / Telecom)",
+      "badge": "Mass Recruitment",
+      "icon": "user-check",
+      "color": "#047857",
+      "totalMarks": 100,
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "74 - 84",
+      "description": "Recruitment for Constable posts across all districts of J&K UT. Heavy emphasis on General Awareness of J&K, Elementary Arithmetic shortcuts, and Basic Reasoning.",
+      "subjects": [
+        {
+          "id": "jkp-constable-gk",
+          "name": "General Awareness & J&K GK",
+          "weightage": 35,
+          "topics": [
+            "J&K History, Famous Rulers & Forts",
+            "Important Rivers, Lakes & Mountain Passes of J&K",
+            "Festivals, Folk Dances & Handicrafts of J&K",
+            "Indian National Movement & Freedom Struggle",
+            "Current Events & Sports Honors"
+          ]
+        },
+        {
+          "id": "jkp-constable-maths",
+          "name": "Elementary Mathematics",
+          "weightage": 25,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Number Systems, LCM & HCF",
+            "Percentages & Simplification (BODMAS tricks)",
+            "Profit & Loss, Discount calculations",
+            "Simple Interest & Compound Interest",
+            "Averages, Ratio & Proportion",
+            "Time & Work, Speed, Time & Distance"
+          ]
+        },
+        {
+          "id": "jkp-constable-reasoning",
+          "name": "Analytical & Reasoning Ability",
+          "weightage": 20,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Number Series & Pattern Completion",
+            "Coding and Decoding",
+            "Odd One Out / Classification",
+            "Blood Relations & Direction Test",
+            "Clock & Calendar Basics"
+          ]
+        },
+        {
+          "id": "jkp-constable-science",
+          "name": "General Science & Environment",
+          "weightage": 20,
+          "topics": [
+            "Everyday Science & Daily Observations",
+            "Human Body, Diseases & Prevention",
+            "Chemicals in Daily Life, Food & Nutrition",
+            "Sources of Energy & Conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stock-assistant",
+      "name": "Stock Assistant / Veterinary Pharmacist",
+      "department": "Animal & Sheep Husbandry Department",
+      "badge": "Popular Technical",
+      "icon": "activity",
+      "color": "#b45309",
+      "totalMarks": 120,
+      "totalQuestions": 120,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "80 - 90",
+      "description": "Recruitment for Animal / Sheep Husbandry posts. Includes 10th/12th based Basic Mathematics, Basic Reasoning, Basic English, and General Awareness/Science.",
+      "subjects": [
+        {
+          "id": "stock-maths",
+          "name": "Basic Mathematics",
+          "weightage": 30,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Number System, Fractions & Decimals",
+            "Percentage & Average shortcuts",
+            "Profit & Loss, Mark-up & Discounts",
+            "Ratio & Proportion, Partnership",
+            "Time and Work, Unitary Method",
+            "Simple Interest & Compound Interest"
+          ]
+        },
+        {
+          "id": "stock-reasoning",
+          "name": "Basic Reasoning",
+          "weightage": 30,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Analogies & Classifications",
+            "Number & Alphabet Series",
+            "Coding-Decoding & Mathematical Operations",
+            "Blood Relations & Directions",
+            "Mirror Images & Paper Folding"
+          ]
+        },
+        {
+          "id": "stock-english",
+          "name": "Basic English",
+          "weightage": 30,
+          "topics": [
+            "Articles (A, An, The) & Determiners",
+            "Prepositions & Conjunctions",
+            "Tenses & Correct usage of Verbs",
+            "Synonyms & Antonyms",
+            "Common Idioms & Phrases"
+          ]
+        },
+        {
+          "id": "stock-gk-science",
+          "name": "General Awareness & Science",
+          "weightage": 30,
+          "topics": [
+            "J&K History, Geography & Culture",
+            "Tourist Spots & Historical Monuments of J&K",
+            "Basic First Aid, Health & Animal Welfare terms",
+            "General Science: Physics, Chemistry & Biology basics",
+            "Indian National Movement & Geography"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faa",
+      "name": "Finance Accounts Assistant (FAA)",
+      "department": "Finance Department J&K",
+      "badge": "Specialist Post",
+      "icon": "book-open",
+      "color": "#7c3aed",
+      "totalMarks": 120,
+      "totalQuestions": 120,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "88 - 98",
+      "description": "Prestigious Finance Accounts Assistant recruitment. Combines Accountancy & Book Keeping, Statistics, Economics, Mathematics, Computer, and J&K GK.",
+      "subjects": [
+        {
+          "id": "faa-gk-jk",
+          "name": "General Knowledge with Special Ref to J&K",
+          "weightage": 30,
+          "topics": [
+            "J&K Reorganization Act 2019 & Delimitation",
+            "Historical Events, Famous Personalities & Heritage of J&K",
+            "Rivers, Lakes, Climate & Agriculture of J&K",
+            "Current Affairs & Indian Constitution"
+          ]
+        },
+        {
+          "id": "faa-accounts",
+          "name": "Accountancy & Book Keeping",
+          "weightage": 30,
+          "topics": [
+            "Introduction to Financial Accounting & Terms",
+            "Journal, Ledger & Trial Balance",
+            "Cash Book & Bank Reconciliation Statement (BRS)",
+            "Depreciation & Financial Statements (P&L, Balance Sheet)",
+            "Vouching, Verification & Public Financial Management (PFMS)"
+          ]
+        },
+        {
+          "id": "faa-maths-stats",
+          "name": "Mathematics & Statistics",
+          "weightage": 20,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Simple & Compound Interest, Profit & Loss",
+            "Linear Equations, Matrices & Determinants",
+            "Measures of Central Tendency (Mean, Median, Mode)",
+            "Probability & Standard Deviation",
+            "Index Numbers & Time Series"
+          ]
+        },
+        {
+          "id": "faa-economics",
+          "name": "General Economics",
+          "weightage": 10,
+          "topics": [
+            "Demand & Supply, Elasticity of Demand",
+            "National Income (GDP, GNP, NNP) & Inflation",
+            "Fiscal & Monetary Policy, RBI Functions",
+            "Centrally Sponsored Schemes in J&K"
+          ]
+        },
+        {
+          "id": "faa-science",
+          "name": "General Science",
+          "weightage": 10,
+          "topics": [
+            "Newton's Laws, Energy & Work",
+            "Metals & Non-metals, Chemical Reactions",
+            "Vitamins, Nutrition & Common Diseases"
+          ]
+        },
+        {
+          "id": "faa-computer",
+          "name": "Knowledge of Computers",
+          "weightage": 10,
+          "topics": [
+            "Computer Architecture & Generations",
+            "MS Office Suite Shortcuts & Formulas",
+            "Networking, Internet & Cybersecurity"
+          ]
+        },
+        {
+          "id": "faa-english",
+          "name": "General English",
+          "weightage": 10,
+          "topics": [
+            "Voice, Narration & Modals",
+            "Subject-Verb Concord & Error Detection",
+            "Vocabulary, Synonyms, Antonyms & Idioms"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vlw-panchayat",
+      "name": "Panchayat Secretary / VLW",
+      "department": "Rural Development & Panchayati Raj Dept",
+      "badge": "High Demand",
+      "icon": "briefcase",
+      "color": "#0284c7",
+      "totalMarks": 100,
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "76 - 86",
+      "description": "Village Level Worker (VLW) / Panchayat Secretary exam. Tests General Awareness, English, Reasoning, Quantitative Aptitude, and Computer Applications.",
+      "subjects": [
+        {
+          "id": "vlw-gk",
+          "name": "General Awareness with J&K Focus",
+          "weightage": 20,
+          "topics": ["Panchayati Raj Act 1989 & Amendments", "J&K Reorganization Act 2019", "Geography & Rivers of J&K", "Current Events"]
+        },
+        {
+          "id": "vlw-english",
+          "name": "General English",
+          "weightage": 20,
+          "topics": ["Grammar, Tenses, Voice, Narration, Idioms & Prepositions"]
+        },
+        {
+          "id": "vlw-reasoning",
+          "name": "Analytical Reasoning",
+          "weightage": 20,
+          "hasShortcutMethods": true,
+          "topics": ["Series, Coding, Blood Relations, Directions, Seating Arrangement"]
+        },
+        {
+          "id": "vlw-maths",
+          "name": "Quantitative Aptitude",
+          "weightage": 15,
+          "hasShortcutMethods": true,
+          "topics": ["Percentages, Profit & Loss, Work & Time, Speed & Distance, SI/CI"]
+        },
+        {
+          "id": "vlw-computer",
+          "name": "Basic Computer Skills",
+          "weightage": 25,
+          "topics": ["Hardware, Windows, MS Office, Internet, Email, Cyber Safety"]
+        }
+      ]
+    },
+    {
+      "id": "patwari",
+      "name": "Patwari / Revenue Executive",
+      "department": "Revenue Department J&K",
+      "badge": "Revenue Dept",
+      "icon": "map",
+      "color": "#dc2626",
+      "totalMarks": 120,
+      "totalQuestions": 120,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "82 - 92",
+      "description": "Patwari recruitment by JKSSB. Tests Mental Ability, English, Computer, Indian Constitution, Revenue Terminology & J&K Geography.",
+      "subjects": [
+        {
+          "id": "patwari-gk",
+          "name": "General Awareness with J&K Special Ref",
+          "weightage": 36,
+          "topics": ["Revenue Terms (Girdawari, Jamabandi, Khasra, Intiqal)", "J&K Reorganization Act", "Physical Geography of J&K"]
+        },
+        {
+          "id": "patwari-reasoning-maths",
+          "name": "Mental Ability & Arithmetic",
+          "weightage": 24,
+          "hasShortcutMethods": true,
+          "topics": ["Percentages, Land Measurement conversion tricks, Averages, Series, Coding"]
+        },
+        {
+          "id": "patwari-english",
+          "name": "English Language",
+          "weightage": 24,
+          "topics": ["Grammar, Comprehension, Correction of Sentences"]
+        },
+        {
+          "id": "patwari-computer",
+          "name": "Computer Knowledge",
+          "weightage": 18,
+          "topics": ["Land Records Digitization (DILRMP), MS Office, Digital Signatures"]
+        },
+        {
+          "id": "patwari-polity",
+          "name": "Constitution of India",
+          "weightage": 18,
+          "topics": ["Fundamental Rights, Duties, Land Reforms Acts in J&K"]
+        }
+      ]
+    },
+    {
+      "id": "assistant-compiler",
+      "name": "Assistant Compiler",
+      "department": "Finance Department (State Taxes / Caretaker / Treasuries)",
+      "badge": "Finance Cadre",
+      "icon": "calculator",
+      "color": "#0891b2",
+      "totalMarks": 120,
+      "totalQuestions": 120,
+      "durationMinutes": 120,
+      "negativeMarking": 0.25,
+      "targetCutoff": "84 - 94",
+      "description": "Recruitment for Assistant Compiler in Finance Department. 8 sections with 15 marks each: General English, Mathematics (Mensuration & Heights), History, Civics, Geography, General Science, Computers, and J&K Special GK.",
+      "subjects": [
+        {
+          "id": "ac-english",
+          "name": "General English",
+          "weightage": 15,
+          "topics": [
+            "Paragraph reading and comprehension",
+            "Editing / Proofreading & Sentence correction",
+            "Rearrangement of sentences",
+            "Narration & Active-Passive Voice",
+            "Modals, Articles & Prepositions",
+            "Clauses, Idioms and Phrases"
+          ]
+        },
+        {
+          "id": "ac-maths",
+          "name": "Mathematics & Mensuration",
+          "weightage": 15,
+          "hasShortcutMethods": true,
+          "topics": [
+            "Surface Areas & Volumes of Combinations of Solids (Cube, Cuboid, Sphere, Cone, Cylinder)",
+            "Frustum of a Cone",
+            "Heights and Distances (Trigonometry Shortcuts)",
+            "Percentage & Average tricks",
+            "Time, Work and Distance",
+            "Ratio and Proportions"
+          ]
+        },
+        {
+          "id": "ac-history",
+          "name": "History & National Movement",
+          "weightage": 15,
+          "topics": [
+            "Revolt of 1857 (Causes & Consequences)",
+            "Indian National Movement (1885-1947)",
+            "Partition of Bengal & Boycott Movement",
+            "Non-Cooperation, Civil Disobedience & Quit India",
+            "World History: First World War & League of Nations",
+            "Russian Revolution, Rise of Fascism & Nazism",
+            "Second World War & Post-War Settlements"
+          ]
+        },
+        {
+          "id": "ac-civics",
+          "name": "Civics & Political Science",
+          "weightage": 15,
+          "topics": [
+            "Indian Constitution (Preamble, Fundamental Rights, Duties, DPSP)",
+            "Forms of Government (Democratic, Monarchy, Dictatorship)",
+            "Representation, Franchise & Electoral System",
+            "Political Parties & Pressure Groups",
+            "United Nations Organisation (UNO) & Major Organs"
+          ]
+        },
+        {
+          "id": "ac-geography",
+          "name": "Geography & Earth Sciences",
+          "weightage": 15,
+          "topics": [
+            "Earth Motion: Rotation, Revolution & Change of Seasons",
+            "Atmosphere: Layers, Insolation, Pressure Belts & Winds",
+            "Precipitation, Types of Rainfall & Cyclones",
+            "Water Resources, Forest Resources & Soil Types",
+            "Agriculture: Major Crops & Cropping Patterns",
+            "Minerals and Energy / Power Resources"
+          ]
+        },
+        {
+          "id": "ac-science",
+          "name": "General Science",
+          "weightage": 15,
+          "topics": [
+            "Physics: Laws of Motion, Work, Energy, Gravitation",
+            "Optics: Reflection, Refraction, Lenses & Mirrors",
+            "Chemistry: Structure of Atom, Periodic Classification",
+            "Chemical Reactions, Carbon & its Compounds",
+            "Biology: Life Processes (Nutrition, Respiration, Transport)",
+            "Ecosystem & Environmental Pollution"
+          ]
+        },
+        {
+          "id": "ac-computer",
+          "name": "Knowledge of Computers",
+          "weightage": 15,
+          "topics": [
+            "Fundamentals & Basic Architecture of Computers",
+            "Input and Output Devices & Storage Devices",
+            "Operating Systems & GUI concepts",
+            "MS Office Suite (Word, Excel, PowerPoint, Access)",
+            "Internet, Web Browsers, Search Engines & Email"
+          ]
+        },
+        {
+          "id": "ac-gk-jk",
+          "name": "GK with Special Reference to UT of J&K",
+          "weightage": 15,
+          "topics": [
+            "Popular Personalities of J&K and their Achievements",
+            "J&K Reorganisation Act 2019 & Delimitation",
+            "Weather, Climate, Crops & Means of Transport of J&K",
+            "Flora and Fauna, National Parks & Sanctuaries",
+            "Rivers, Lakes & Glaciers of J&K",
+            "Important Tourist Destinations & Heritage Sites"
+          ]
+        }
+      ]
+    }
+  ]
+}

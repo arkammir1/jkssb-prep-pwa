@@ -1,0 +1,50 @@
+{
+  "name": "JKSSB Prep Master - PYQ & Shortcuts",
+  "short_name": "JKSSB Prep",
+  "description": "Comprehensive Exam Preparation App for JKSSB (Sub Inspector, Constable, Stock Assistant, FAA, Patwari, VLW, Assistant Compiler) with 12,000+ PYQs and Dual-Method Math Shortcuts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "lang": "en",
+  "categories": ["education", "books", "productivity"],
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Full Mock Test",
+      "url": "./index.html#mock-test",
+      "description": "Start a full-length 120-minute JKSSB mock test"
+    },
+    {
+      "name": "Maths Shortcuts Practice",
+      "url": "./index.html#practice-maths",
+      "description": "Practice Quantitative Aptitude with Dual-Method Tricks"
+    },
+    {
+      "name": "J&K Special GK Vault",
+      "url": "./index.html#pyq-vault",
+      "description": "Browse PYQs of J&K Reorganisation Act, History, and Geography"
+    }
+  ]
+}
